@@ -12,18 +12,19 @@
     height: 3.2rem;
 }
 .add-task-input input{
-    width: 90%;
+    width:85%;
     border: none;
     padding: 10px;
     font-size: 1.6rem;
     outline-color: #15F5BA;
 }
 .add-task-btn{
-    width: 10%;
+    width: 15%;
     font-size: 1.6rem;
     border: none;
     background-color: #15F5BA;
     color: #211951;
+    text-align: center;
 }
 
 .add-task-btn:hover{

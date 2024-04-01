@@ -16,7 +16,7 @@ function AddTask() {
                     placeholder='Add Task...'
                     value={inputValue}
                     onChange={handleInput} />
-                <button className='add-task-btn' onClick={addTask}>Add</button> {/* Use addTask here */}
+                <button className='add-task-btn' onClick={addTask}>+</button> {/* Use addTask here */}
             </div>
         </div>
     )
