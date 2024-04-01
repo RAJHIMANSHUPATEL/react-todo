@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone it in your environment and run "npm install" to install all the dependencies. Then run the project by typing npm start in the console.
+
+## Link to the project 
+https://react-todo-app-six-plum.vercel.app/
 
 ## Available Scripts
 
