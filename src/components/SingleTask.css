@@ -1,0 +1,29 @@
+.single-task{
+    width: 100%;
+    background-color: #836FFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    font-size: 1.6rem;
+    color: #211951;
+    margin-top: 15px;
+}
+
+
+.delete-btn {
+    background-color: #15F5BA;
+    font-size: 1.4rem;
+    border: none;
+    color: #211951;
+    padding: 10px 20px;
+    transition: ease-in-out;
+}
+
+.delete-btn:hover{
+    background-color: #12D9A5;
+    cursor: pointer;
+}
+
+.completed{
+    text-decoration: line-through;
+}
